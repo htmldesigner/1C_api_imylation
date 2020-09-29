@@ -1,0 +1,26 @@
+[
+ {
+  "id": "b5ab2bcb-251e-4bc5-8df8-0038d3c0db1c",
+  "name": "test",
+  "phone": "32323",
+  "iin": "787844"
+ },
+ {
+  "id": "b93d3e66-618a-4c87-8af0-f6b8bfa584e4",
+  "name": "test",
+  "phone": "32323",
+  "iin": "78781"
+ },
+ {
+  "id": "bd496bc4-6460-44ac-aabe-5993e5108050",
+  "name": "test",
+  "phone": "32323",
+  "iin": "78786"
+ },
+ {
+  "id": "8ad8bf62-7f43-4cb8-a791-9d5451182ea1",
+  "name": "test1",
+  "phone": "3232312",
+  "iin": "787890"
+ }
+]
